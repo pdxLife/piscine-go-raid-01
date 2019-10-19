@@ -37,7 +37,7 @@ func Raid1d(x, y int) {
 			z01.PrintRune(10)
 		}
 		if x > 1 && y != 1 {
-			z01.PrintRune(67)
+			z01.PrintRune(65)
 			for xl := 0; xl < x-2; xl++ {
 				z01.PrintRune(66)
 			}
