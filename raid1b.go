@@ -2,7 +2,7 @@ package student
 
 import "github.com/01-edu/z01"
 
-func Raid1a(x, y int) {
+func Raid1b(x, y int) {
 	if x > 0 && y > 0 {
 		if x == 1 {
 			z01.PrintRune(47)
